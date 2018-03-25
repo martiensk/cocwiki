@@ -9,3 +9,7 @@
 #### Roll luck - 3d6 * 5
 
 #### Apply  [age modifiers](/investigator-age).
+
+#### Determine half and fifth values
+
+#### 
