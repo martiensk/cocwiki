@@ -1,9 +1,9 @@
 <!-- TITLE: Welcome to the Mythos -->
 <!-- SUBTITLE: That is not dead which can eternal lie, and with strange aeons even death may die. -->
 
-*"The universe is older, bigger and weirder than anyone could ever imagine. Mankind is insignificant.
+> The universe is older, bigger and weirder than anyone could ever imagine. Mankind is insignificant.
 There is no good or evil, or any other ordering structure that man can grasp except power.
-And people who glimpse a shadow of these old powers are like a snowflake in a furnace"*
+And people who glimpse a shadow of these old powers are like a snowflake in a furnace
 **- H.P. Lovecraft**
 
 *"At night the most mundane circumstances can construct demons in our minds, and those demons kill.
