@@ -8,7 +8,7 @@
 
 # Pushing the roll
 Gives player a chance to re-roll the dice. Failure has dire consequences.
-## General level of ability by skill value:
+# General level of ability by skill value:
 **01%–05%:** Novice: complete amateur.
 **06%–19%:** Neophyte: beginner with a small amount of knowledge.
 **20%–49%:** Amateur: possesses some talent or rudimentary training (hobby level).
