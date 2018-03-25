@@ -7,3 +7,7 @@ Make DEX roll, higher level of success goes first. For characters that rolled th
 # One combat round
 * Investigators get one action per round.
 * Investigators may elect to delay taking an action until later in the round.
+# Extreme damage, impales
+If attacker has an extreme success on his turn (not fighting back):
+* If attacking with **blunt** weapon, deal **maximum damage** plus **maximum bonus damage**.
+* If attacking with an **impaling** weapon (spear, bullets), deal **maximum damage** plus **maximum bonus damage** and make an additional **damage roll**.
