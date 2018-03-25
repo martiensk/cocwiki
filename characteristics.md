@@ -1,4 +1,4 @@
-<!-- TITLE: Charactieristics -->
+<!-- TITLE: Characteristics -->
 <!-- SUBTITLE: A quick summary of character characteristics -->
 
 # Strength
