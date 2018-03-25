@@ -13,4 +13,4 @@ than SIZ, or if all three are equal:
 If both STR and DEX are each greater than SIZ:	MOV 9
 
 ## Game grid
-WIP
+One square is normally 5 foot, meaning an investigator with MOV 7 can move 7 squares per round.
