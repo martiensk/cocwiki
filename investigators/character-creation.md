@@ -5,6 +5,7 @@
 1. Share 460 points among the eight characteristics within the 15 to 90 range. 
 	* INT and SIZE minimum is 40.
 	* Nothing can be lower than 15.
+	* *OR Allocate the following values where you like among your characteristics: 40, 50, 50, 50, 60, 60, 70, 80.*
 2. Roll luck - 3d6 * 5.
 3. Apply  [age modifiers](investigator-age).
 4. Determine half and fifth values.
@@ -18,3 +19,4 @@
 	* three at 50% 
 	* three at 40% 
 	* *set the skills directly to these values and ignore the skill base*
+10. Add INT * 2 skills to any skills as personal interests, do not 
