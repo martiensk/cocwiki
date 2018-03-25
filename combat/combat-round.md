@@ -7,6 +7,8 @@ Make DEX roll, higher level of success goes first. For characters that rolled th
 # One combat round
 * Investigators get one action per round.
 * Investigators may elect to delay taking an action until later in the round.
+# Armour
+Reduce damage of any attack that goes through armour by the armour rating. (Unless attacks ignore armour, ike magic)
 # Outnumbered
 A character/monster can make as many dodge/fight back rolls as they have actions per round available to them. After that, all dodge/fight back rolls must be made with a penalty dice.
 # Escaping
