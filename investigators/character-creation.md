@@ -19,4 +19,5 @@
 	* three at 50% 
 	* three at 40% 
 	* *set the skills directly to these values and ignore the skill base*
-10. Add INT * 2 skills to any skills as personal interests, do not 
+10. Add INT * 2 skills to any skills as personal interests, add to base values.
+11. Create backstory (See P. 52 of Investigators Handbook for random tables)
