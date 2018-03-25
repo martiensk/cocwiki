@@ -12,6 +12,11 @@
 
 # Pushing the roll
 Gives player a chance to re-roll the dice. Failure has dire consequences.
+# Bonus and penaty die
+A bonus/penalty dice is always an additional 1d10. Don't have more than 3 additional die. 
+*If there is a bonus and a penalty dice, they cancel each other out.*
+For a **bonus dice** pick the d10 with the **lowest** value.
+For a **penalty dice** pick the d10 with the **highest** value.
 # General level of ability by skill value:
 **01%–05%:** Novice: complete amateur.
 **06%–19%:** Neophyte: beginner with a small amount of knowledge.
