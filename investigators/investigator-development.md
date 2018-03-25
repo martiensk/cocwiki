@@ -13,3 +13,6 @@ Roll 1d10 and add the result to the skill level.
 
 **Note:** *The Cthulhu Mythos and Credit Rating skills never receive a skill check.*
 
+# Luck
+Investigators should always roll for luck.
+
