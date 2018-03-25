@@ -6,6 +6,10 @@
 **Hard success:** Dice roll below half of skill points.
 **Extreme success:** Dice roll below one fifth of skill points.
 
+### Fumbles and crits
+**Critical success:** If a 01 is rolled. Something beneficial happens beyond achieving the goal.
+**Fumble:** If the roll is between 96 - 100. Something really bad happens. *If skill level overlaps fumble, adjust the fumble rolls.*
+
 # Pushing the roll
 Gives player a chance to re-roll the dice. Failure has dire consequences.
 # General level of ability by skill value:
