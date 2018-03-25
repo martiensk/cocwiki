@@ -11,3 +11,9 @@
 5. Determine [damage bonus and build](/damage-bonus-build).
 6. Determine hit points - CON + SIZ / 10.
 7. Determine [MOV characteristic](/game-system/movement#game-grid).
+8. Choose an occupation and allocate the following values among the eight occupation skills and the credit rating skill: 
+	* one at 70%
+	* two at 60% 
+	* three at 50% 
+	* three at 40% 
+	* * set the skills directly to these values and ignore the skill base
