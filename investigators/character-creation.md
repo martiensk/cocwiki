@@ -16,4 +16,4 @@
 	* two at 60% 
 	* three at 50% 
 	* three at 40% 
-	* * set the skills directly to these values and ignore the skill base
+	* *set the skills directly to these values and ignore the skill base
