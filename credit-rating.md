@@ -6,33 +6,10 @@
  --- | --- | --- | --- | ---
 CR 0 or less | Penniless | $0.50 | None | $0.50
 CR 1-9 | Poor | CR x 1 ($1 - $9) | CR x 10 ($10 - $90) | $2
-
- Average
- CR x 2
- CR x 50
- $10
- (CR 10-49)
- ($20 - $98)
- ($500 - $2450)
-Wealthy
- CR x 5 ($250 -
- CR x 500
- $50
-(CR 50-89)
- $445)
- ($25,000 - $44,500)
-Rich (CR 90-98)
- CR x 20 ($1800
- CR x 2000
- $250
-- $1960)
- ($180,000 -
-$196,000)
- Super (CR 99)
- Rich
- $50,000
- $5M+
- $5000
+CR 10-49 | Average | CR x 2 ($20 - $98) | CR x 50 ($500 - $2450) | $10
+CR 50-89 | Wealthy | CR x 5 ($250 - $445) | CR x 500 ($25,000 - $44,500) | $50
+CR 90-98 | Rich | CR x 20 ($1800 - $1960) | CR x 2000 ($180,000 - $196,000) | $250
+CR 99 | Super Rich | $50,000 | $5M+ | $5000
 # Living Standards
 **Credit Rating 0:** *Penniless*
 A person that cannot even afford the level of ‘poor‘ is considered penniless.
