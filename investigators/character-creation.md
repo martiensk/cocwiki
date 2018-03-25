@@ -12,8 +12,8 @@
 6. Determine hit points - CON + SIZ / 10.
 7. Determine [MOV characteristic](/game-system/movement#game-grid).
 8. Choose an occupation and allocate the following values among the eight occupation skills and the credit rating skill: 
-	1. one at 70%
+	* one at 70%
 	* two at 60% 
 	* three at 50% 
 	* three at 40% 
-	* set the skills directly to these values and ignore the skill base
+	* *set the skills directly to these values and ignore the skill base*
