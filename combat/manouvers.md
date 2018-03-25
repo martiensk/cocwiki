@@ -7,4 +7,4 @@
 * If character build is **1 sizes lower** the manouver rolls with **1 penalty** dice.
 * All other cases, no modifiers are applied.
 
-# Resolve like a regular [melee](melee) attack
+**Now resolve like a regular [melee](melee) attack.
