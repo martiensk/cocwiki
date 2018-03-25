@@ -1,4 +1,4 @@
-<!-- TITLE: Investigator Progression -->
+<!-- TITLE: Investigator Character Progression -->
 <!-- SUBTITLE: Game mechanics involving investigators. -->
 
 # Age
