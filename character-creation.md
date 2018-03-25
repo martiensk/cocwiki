@@ -8,4 +8,4 @@
 
 #### Roll luck - 3d6 * 5
 
-#### Apply [age modifiers] (/investigator-age)
+#### Apply  [age modifiers](/investigator-age).
