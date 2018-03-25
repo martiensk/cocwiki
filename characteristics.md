@@ -1,5 +1,5 @@
-<!-- TITLE: Investigator Charactieristics -->
-<!-- SUBTITLE: A quick summary of investigator characteristics -->
+<!-- TITLE: Charactieristics -->
+<!-- SUBTITLE: A quick summary of character characteristics -->
 
 # Strength
 0: Enfeebled: unable to even stand up or lift a cup of tea.
