@@ -1,16 +1,15 @@
 <!-- TITLE: Investigator Charactieristics -->
-<!-- SUBTITLE: A quick summary of Investigator Charactieristics -->
+<!-- SUBTITLE: A quick summary of investigator characteristics -->
 
-Strength
+# Strength
 0: Enfeebled: unable to even stand up or lift a cup of tea.
 15: Puny, weak.
 50: Average human strength.
 90: One of the strongest people you’ve ever met.
 99: World class (Olympic weightlifter). Human maximum.
 140: Beyond human strength (gorilla or horse).
-200+: Monstrous strength (e.g. Gla'aki, see Chapter 14:
-Monsters, Beasts and Alien Gods)
-Constitution
+200+: Monstrous strength (Monsters, Beasts and Alien Gods)
+# Constitution
 0: Dead.
 1: Sickly, prone to prolonged illness and probably unable
 to operate without assistance.
@@ -24,7 +23,7 @@ pain. Human maximum.
 200+: Monstrous constitution, immune to most terres-
 trial diseases (e.g. Nyogtha, see Chapter 14: Monsters,
 Beasts and Alien Gods).
-Size
+# Size
 1: A baby (1 to 12 pounds).
 15: Child, very short in stature (dwarf) (33 pounds/15 kg).
 60: Average human size (moderate height and weight)
@@ -36,7 +35,7 @@ Size
 200+: 1920 pounds / 872 kg (e.g. Chaugnar Faugn, see
 Chapter 15: Monsters, Beasts and Alien Gods).
 Note: Some humans may exceed SIZ 99.
-Dexterity
+# Dexterity
 0: Unable to move without assistance.
 15: Slow, clumsy with poor motor skills for fine manipulation.
 50: Average human dexterity.
@@ -46,7 +45,7 @@ Dexterity
 120: Beyond human dexterity (e.g. tiger).
 200+: Lightning dexterity, able to move or perform feats poten-
 tially quicker than a human could comprehend.
-Appearance
+# Appearance
 0: So unsightly, others are affected by fear, revulsion, or pity.
 15: Ugly, possibly disfigured due to injury or at birth.
 50: Average human appearance.
@@ -56,7 +55,7 @@ magnetism.
 renowned film star). Human maximum.
 Note: *APP is normally used only for humans, and does not
 exceed 99.
-Intelligence
+# Intelligence
 0: No intellect, unable to comprehend the world around them.
 15: Slow learner, able to undertake only the most basic
 math, or read beginner-level books.
@@ -69,7 +68,7 @@ Chapter 14: Monsters, Beasts and Alien Gods).
 210+: Monstrous intellect, able to comprehend and
 operate in multiple dimensions (e.g. Great Cthulhu, see
 Chapter 14: Monsters, Beasts and Alien Gods).
-Power
+# Power
 0: Enfeebled mind, no willpower, no magical potential.
 15: Weak-willed, easily dominated by those with a greater
 intellect or willpower.
@@ -84,7 +83,7 @@ unseen world.
 human comprehension (e.g. Great Cthulhu, see Chapter
 14: Monsters, Beasts and Alien Gods).
 Note: Human POW can exceed 100, but this is exceptional.
-Education
+# Education
 0: A newborn baby.
 15: Completely uneducated in every way.
 60: High school graduate.
