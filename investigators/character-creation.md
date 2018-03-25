@@ -22,3 +22,5 @@
 10. Add INT * 2 skills to any skills as personal interests, add to base values.
 11. Create backstory. (See P. 52 of Investigators Handbook for random tables)
 12. Determine [cash, assets and living standards](credit-rating).
+## Notes
+*No points can be added to the Cthulhu Mythos skill.*
