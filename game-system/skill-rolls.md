@@ -12,7 +12,7 @@
 
 # Pushing the roll
 Gives player a chance to re-roll the dice. Failure has dire consequences.
-## Luck
+### Luck
 Instead of pushing the roll, a player can spend luck points to alter the roll.
 # Bonus and penaty die
 A bonus/penalty dice is always an additional 1d10. Don't have more than 3 additional die. 
