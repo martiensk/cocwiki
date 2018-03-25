@@ -1,5 +1,5 @@
 <!-- TITLE: Movement -->
-<!-- SUBTITLE: A quick summary of Movement -->
+<!-- SUBTITLE: A quick summary of movement -->
 
 # Movement Rate (MOV)
 An investigator can move a number of yards (or meters) up
