@@ -9,3 +9,4 @@
 3. Apply  [age modifiers](/investigator-age).
 4. Determine half and fifth values
 5. Determine [damage bonus and build](damage-bonus-build)
+6. Determine hit points - CON + SIZ / 10
