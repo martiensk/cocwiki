@@ -9,6 +9,8 @@ Make DEX roll, higher level of success goes first. For characters that rolled th
 * Investigators may elect to delay taking an action until later in the round.
 # Outnumbered
 A character/monster can make as many dodge/fight back rolls as they have actions per round available to them. After that, all dodge/fight back rolls must be made with a penalty dice.
+# Escaping
+If unobstructed a character may use his action to flee.
 # Extreme damage, impales
 If attacker has an extreme success on his turn (not fighting back):
 * If attacking with **blunt** weapon, deal **maximum damage** plus **maximum bonus damage**.
