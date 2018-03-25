@@ -3,6 +3,7 @@
 
 # Cash and Assets
  Credit Rating | Social Status | Cash | Assets | Spending Level
+ --- | --- | --- | --- | ---
 CR 0 or less | Penniless | $0.50 | None | $0.50
 CR 1-9 | Poor | CR x 1 ($1 - $9) | CR x 10 ($10 - $90) | $2
 
