@@ -12,4 +12,4 @@
 
 #### Determine half and fifth values
 
-#### 
+#### Determine [damage bonus and build](damage-bonus-build)
