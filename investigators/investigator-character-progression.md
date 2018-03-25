@@ -3,3 +3,6 @@
 
 # Age
 At every decade (10, 20, 30... etc,) check page 32 for age related changes. Or check the [investigator age](/investigator-age).
+
+# Skill level over 90
+Add 2d6 to current sanity.
