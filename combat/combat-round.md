@@ -1,4 +1,4 @@
-<!-- TITLE: Combating -->
+<!-- TITLE: Combating (And the Combat Round) -->
 <!-- SUBTITLE: Strong make hooman go boom-bye hehehe -->
 
 # Initiative
