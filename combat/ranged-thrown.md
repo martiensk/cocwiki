@@ -23,17 +23,30 @@ It takes:
 * **One round** to change a **clip**.
 * **Two rounds** to change a **machine gun belt**.
 *In a round, it is possible to put one round in a chamber and get that shot off with one penalty die.*
-## Multiple Shots
-### Semi-auto
+## Malfunctions
+If attack roll is **>= firearms malfunction** number.
+Revolvers or bolt-action rifles have a dud round.
+Otherwise the malfunction is a jam. Fixing takes **1D6** combat rounds, plus a **Mechanical Repair or Firearms** roll. 
+
+# Multiple Shots
+## Semi-auto
 Add a penalty die to each shot fired.
-### Burst fire
+## Burst fire
 Fire a single volley of 2 or 3 bullets. (as per firearm spec)
-### Full auto
+## Full auto
 * The player declares the number of rounds to be fired.
 * Fire volley equal to **MG or SMG / 10** (But never fewer than 3 bullets)
 * For **first attack** roll attack as normal.
 * Add **one penalty die** for each additional volley.
-* If 
+* If two penalty dies are added, start lowering difficulty until attack becomes impossible.
+### Multiple targets
+* Targets must be in **sixty degree arc**.
+* **One bullet/foot** is expended while **moving** the firearm.
+* Make **fresh roll** for each volley on a **new target**.
+### Resolving
+If the rolls is:
+* **success or hard success**: roll damage for half of bullets fired.
+* **extreme success**: Roll damage for all bullets, half of them impale.
 # Defending against a ranged or thrown weapons
 ## Fight Back
 A target may choose to *Fight Back* if within **one fifth of their DEX** in feet to the attacker.
