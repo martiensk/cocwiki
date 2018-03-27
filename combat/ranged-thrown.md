@@ -19,6 +19,7 @@ Readied firearms may fire DEX+50 in initiative.
 **Very long range (up to four times the base range):** Extreme difficulty level.
 ## Point Blank
 If the target is within **one fifth** of the **attackers Dex** in feet, add one **penalty die**.
+This rule does not apply to long / cumbursome weapons like a rifle.
 ## Aiming
 The intention to aim *must be decalred on the charcaters turn and the shot must be taken on the character's next turn*. This adds **one bonus die**.
 if an action is taken, or the character moves, the **advantage is lost**.
