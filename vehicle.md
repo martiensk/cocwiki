@@ -35,6 +35,7 @@ Aircraft carrier | 11 | 75 | 0 | 3200+
 Submarine | 12 | 24 | 0 | 120+
 # Other
 Vehicles | MOV | Build | Armor | Passengers
+--- | --- | --- | --- | ---
 Tank | 11 | 20 | 24 | 4
 Steam train | 12 | 12 | 1 | 400+
 Modern train | 15 | 14 | 2 | 400+
