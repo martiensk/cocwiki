@@ -9,6 +9,7 @@ More than HP | Death
 ## Regular damage
 * If HP is reduced to zero, the character is unconscious. 
 * A character cannot die from regular damage.
+* Luck may be spent to remain conscious, costing 1 point on first round and doubling each consecutive round.
 ## Major wound
 * Character falls prone
 * Make **CON** check to see if character stays conscious.
