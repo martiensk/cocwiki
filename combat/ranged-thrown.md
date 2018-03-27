@@ -1,5 +1,14 @@
 <!-- TITLE: Ranged or Thrown Weapons -->
 <!-- SUBTITLE: Not too close bro -->
+Difficulty Level | Bonus Die | Penalty Die
+--- | --- | ---
+Regular: Normal range | Aiming for 1 round | Target diving for cover
+Hard: Long range | Point blank | Fast-moving target (MOV 8+)
+Extreme: Very long range | Large target (Build 4+) | Partial (50%+) concealment
+ | | Small target (Build –2)
+ | | Multiple handgun shots
+ | | Loading and firing one shot in a single round
+ | | Firing into melee
 
 # Attacking 
 Half the attacker’s damage bonus is applied to thrown and missile weapons that rely on the user’s strength—this applies to bows and slings but not to crossbows.
