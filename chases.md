@@ -35,6 +35,7 @@ Use stealth roll or persuers spot hidden.
 **Collision** Vehicle suffers build damage, occupants suffer the same damage to HP (i.e. id6 for moderate incident).
 ## Vehicular Collisions
 Incident | Damage | Examples
+--- | --- | ---
 **Minor incident:** Most Regular Hazards. May be cosmetic damage only, possibly something serious. | 1D3-1 | Glancing blow from another vehicle, grazing a lamp post, hitting a post, colliding with person or similar-sized creature.
 **Moderate incident:** Most Hard Hazards. Might cause major damage. Might wreck a car. | 1D6 | Hitting a cow or large deer, collision with a heavy motorbike or economy car.
 **Severe incident:**  Most Extreme Hazards. Likely to wreck a car outright. | 1D10 | Collision with a standard car, lamp post or tree.
