@@ -10,4 +10,5 @@ Injury | Damage | Examples
 **Terminal:** outright death is likely. | 4D10 | Hit by a speeding car, being within 3 yards of an exploding hand grenade or stick of dynamite, a lethal poison**.
 **Splat:** outright death almost certain. | 8D10 | Being involved in a high-speed head-on collision, being hit by a train.
 ***Asphyxiation and Drowning:** a CON roll should be made each round; once a CON roll is failed, damage is sustained each round thereafter until death or until the victim is able to breathe. If the character is in a state of physical exertion, a Hard success is required on the CON roll.
+
 ****Poisons:** an Extreme CON roll will halve damage from poisons. Poisons may cause a variety of additional symptoms including: stomach pains, vomiting, diarrhea, chills, sweats, cramps, jaundice, altered heart rate, impaired vision, convulsions, unconsciousness, and paralysis. It is up to the Keeper whether the symptoms permit the victim to act or not, or to act with a penalty die or an increased level of difficulty. In certain circumstances, Keepers may allow a poison's effects to be shaken off if the CON roll is a critical success.
