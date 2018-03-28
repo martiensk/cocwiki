@@ -1,4 +1,4 @@
-<!-- TITLE: Basics -->
+<!-- TITLE: Rules and mechanics -->
 <!-- SUBTITLE: I'm not crazy, I swear! -->
 # Pointers
 * Bonus/penalty die are not applied to sanity rolls. Sanity rolls can't be adjusted by spending luck.
