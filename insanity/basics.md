@@ -18,6 +18,8 @@
 ### Bout of madness
 * Lasts for 1d10 combat rounds, or can be played out if not in combat/company.
 * Bouts of madness should add new backstory entries, or corrupt existing ones.
+### Underlying Insanity
+Any sanity point loss causes another bout of madness. Player may rollplay this insanity.
 # Temporary Insanity
 Happens if the player loses 5 or more points of insanity in a single roll.
 Player must make an **INT** roll.
