@@ -13,6 +13,6 @@ Roll | Condition | Real Time Effect  | Cinematic Effect
 6 | Ideology/Beliefs | --- | The investigator manifests one of these (backstory) in an extreme, crazed, and demonstrative manner. 
 7 | Flee in panic | The investigator is compelled to get as far away as possible by whatever means are available. | When the investigator comes to their senses they are far away, perhaps lost in the wilderness or on a train or long-distance bus.
 8 | Physical hysterics or emotional outburst | The investigator is incapacitated from laughing, crying, screaming, etc. | ---
-7 | Institutionalized | --- | The investigator comes to their senses in a psychiatric ward or police cell. They may slowly recall the events that led them there.
+8 | Institutionalized | --- | The investigator comes to their senses in a psychiatric ward or police cell. They may slowly recall the events that led them there.
 9 | Phobia | Investigator gains a new phobia. Even if the source of the phobia is not present, the investigator imagines it is there. | The investigator comes to their senses 1D10 hours later, having taken every precaution to avoid their new phobia.
 10 | Mania | The investigator gains a new mania. The investigator seeks to indulge in their new mania. | The investigator comes to their senses 1D10 hours later. During this bout of madness, the investigator will have been fully indulging in their new mania.
