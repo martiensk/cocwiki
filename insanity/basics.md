@@ -1,4 +1,4 @@
-<!-- TITLE: Rules and mechanics -->
+<!-- TITLE: Rules and Mechanics -->
 <!-- SUBTITLE: I'm not crazy, I swear! -->
 # Pointers
 * Bonus/penalty die are not applied to sanity rolls. Sanity rolls can't be adjusted by spending luck.
@@ -9,10 +9,21 @@
 	* **Involuntary combat action:** If a Sanity roll is failed during a combat round, the investigator’s action for that round may be dictated by the Keeper; for example, lashing out with a fist, squeezing a trigger, taking shelter behind someone else.
 	* **Freeze:** Stare disbelievingly for a moment but take no action.
 * **Fumbles** cause investigators to lose maximum points.
+* If the player loses **5** or more sanity points in a **single roll**, he/she incurs **temporary insanity**.
+* If the player loses **one fifth** of their sanity in a **single day game** he/she incurs **indefinite insanity**.
 # Phases of insanity
 1. Bout of madness: *Player loses control of character for brief period of time.*
 2. Underlying insanity: *Player is prone to bouts of madness, phobias, delusions.*
 3. Recovery
-
+# Temprary Insanity
+Happens if the player loses 5 or more points of insanity in a single roll.
+Player must make an **INT** roll.
+If **failed**, player does not go insane.
+If **passed**, the player goes insane for **1d10** hours.
+# Indefinite Insanity
+Happens if player loses more than a fifth of their sanity in a single game day.
+Lasts until the player is cured or recovers.
+# Permanent Insanity
+If sanity drops to zero the character is permanently and indefinitely insane, and ceases to be a player character.
 
 
