@@ -15,7 +15,10 @@
 1. Bout of madness: *Player loses control of character for brief period of time.*
 2. Underlying insanity: *Player is prone to bouts of madness, phobias, delusions.*
 3. Recovery
-# Temprary Insanity
+### Bout of madness
+* Lasts for 1d10 combat rounds, or can be played out if not in combat/company.
+* Bouts of madness should add new backstory entries, or corrupt existing ones.
+# Temporary Insanity
 Happens if the player loses 5 or more points of insanity in a single roll.
 Player must make an **INT** roll.
 If **failed**, player does not go insane.
