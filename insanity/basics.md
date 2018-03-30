@@ -23,6 +23,18 @@ Any sanity point loss causes another bout of madness. Player may rollplay this i
 A **psychoanalysis roll** may be used to ignore a **phobia / mania**.
 A **psychoanalysis roll** or **sanity roll** may be used to see through **delusions / hallucinations**.
 A **failed roll** lose 1 sanity and go into a bout of madness.
+### Recovery
+**Temporary** insanity lasts for **1d10** hours.
+**Indefinite Insanity:**
+After each month in treatment a player must make a dice roll:
+* May be cured in the investigators development phase.
+* Private care: **1d100**
+	* **1 - 95**: Success. Recover **1d3** sanity points and tmake a sanity roll. If succeeded, the character is no longer insane. If failed, make another roll in a months time.
+	* **96 - 100**: Fumble. Remove **1d6** sanity points and wait for next month.
+* Institutionalisation: **1d100**
+	* **1 - 50**: Success. Recover **1d3** sanity points and tmake a sanity roll. If succeeded, the character is no longer insane. If failed, make another roll in a months time.
+	* **51 - 95**: No progress has been made.
+	* **96 - 100**: Fumble. Remove **1d6** sanity points and wait for next month.
 # Temporary Insanity
 Happens if the player loses 5 or more points of insanity in a single roll.
 Player must make an **INT** roll.
