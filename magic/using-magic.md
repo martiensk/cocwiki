@@ -6,3 +6,12 @@ Casting spells cost MP or POW. Using it may leave behind a sensation. (such as r
 Using POW should cause a stronger sensation than using MP.
 If the character has no MP left, HO can be used. It will have physical signs, such as blood from the eyes.
 MP is regenerated at 1 per hour (2 if POW is over 100, 3 if POW is over 200 and so on). 
+# Casting
+Casting a spell incurs the spell's sanity loss.
+Spells time are variant, they may require ritual. 
+When casting a new spell for the first time a casting roll must be made.
+## Casting roll
+Roll **Hard POW**. 
+If successful the spell is cast.
+If failed a second attempt (now or in future) may be made. This always constitutes a pushed roll.
+If failed [dire consequences](pushed-casting-fails) ensue.
