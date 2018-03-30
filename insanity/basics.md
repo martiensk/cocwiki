@@ -55,5 +55,9 @@ If sanity drops to zero the character is permanently and indefinitely insane, an
 * **Self help**: Player spends time with backstory entry. The player makes a sanity roll:
 	* Success: Gain 1d6 sanity.
 	* Failure: Lose 1 sanity, amend backstory entry.
-
+# Mythos Encounters
+Players cannot lose more than the maximum SAN in total for the same mythos creature.
+Each player development phase 1 point should be deducted from this counter. (Time is a healer.)
+# Insane Insight
+Insane players may get clues that would not be apparent to sane players.
 
