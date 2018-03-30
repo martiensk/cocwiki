@@ -15,3 +15,5 @@ Roll **Hard POW**.
 If successful the spell is cast.
 If failed a second attempt (now or in future) may be made. This always constitutes a pushed roll.
 If failed [dire consequences](pushed-casting-fails) ensue.
+# POW
+If a spell calling for an opposed POW roll succeeds, the investigators must make a POW upgrade roll (1d100) - if it succeeds POW can be upgraded by 1d10.
