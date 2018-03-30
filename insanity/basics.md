@@ -20,6 +20,8 @@
 * Bouts of madness should add new backstory entries, or corrupt existing ones.
 ### Underlying Insanity
 Any sanity point loss causes another bout of madness. Player may rollplay this insanity.
+A **psychoanalysis roll** may be used to ignore a **phobia / mania**.
+A **psychoanalysis roll** or **sanity roll** may be used to see through **delusions / hallucinations**.
 # Temporary Insanity
 Happens if the player loses 5 or more points of insanity in a single roll.
 Player must make an **INT** roll.
