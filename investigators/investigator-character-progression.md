@@ -7,3 +7,5 @@ Add 2d6 to current sanity.
 # First mythos insanity
 Add **5 points** to the **cthulhu mythos** skill.
 any further mythos-induced insanity adds **1** to the skill.
+# Mythos Hardened
+When insanity drop below mythos points for the first time a player undergoes a paradigm shift and all future sanity loss is halved.
