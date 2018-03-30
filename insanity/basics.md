@@ -47,4 +47,13 @@ Lasts until the player is cured or recovers.
 If sanity drops to zero the character is permanently and indefinitely insane, and ceases to be a player character.
 # Increasing Sanity Points
 * **Keeper award**: During investigator development phase.
+* **Skill increase to 90**: Recover 2d6.
+* **Psychotherapy**: Make a 1D100 roll against the analyst or doctor’s Psychoanalysis skill once per month.
+	* Success: Gain 1D3.
+	* Fail: Nothing happens.
+	* Fumble: Lose 1D6, treatment concludes.
+* **Self help**: Player spends time with backstory entry. The player makes a sanity roll:
+	* Success: Gain 1d6 sanity.
+	* Failure: Lose 1 sanity, amend backstory entry.
+
 
