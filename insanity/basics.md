@@ -45,5 +45,6 @@ Happens if player loses more than a fifth of their sanity in a single game day.
 Lasts until the player is cured or recovers.
 # Permanent Insanity
 If sanity drops to zero the character is permanently and indefinitely insane, and ceases to be a player character.
-
+# Increasing Sanity Points
+* **Keeper award**: During investigator development phase.
 
