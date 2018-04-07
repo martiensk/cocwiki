@@ -3,7 +3,7 @@
 # If the spell uses MP
 Roll | Effect
 --- | ---
-1 |	Blurred vision or temporary blindness.
+1 |	Blurred vision or temporary blindness. (1d6 rounds)
 2 |	Disembodied screaming, voices, or other noises.
 3 |	Strong winds or other atmospheric effects.
 4 | Bleeding—from the caster, others present, or the environment (e.g. the walls).
