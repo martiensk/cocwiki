@@ -20,10 +20,10 @@ More than HP | Death
 * After each hour, roll CON. If failed you are dying again.
 * If medicine is applied successfully heal 1d3 and remove dying status.
 ## First aid and medicine
-Both can be applied once up to one hour after injury, first aid healing 1 HP and medicine 1d3.
+Both can be applied once up to one hour after injury, first aid healing 1 HP (1d4 pulp) and medicine 1d3 (1d4 pulp).
 # Recovery
 ## Regular damage
-Recover 1 HP per day.
+Recover 1 (2 pulp) HP per day.
 ## Major Wound
 At the end of each week, make a CON roll.
 **Fumble:** Add permanent side effect.
