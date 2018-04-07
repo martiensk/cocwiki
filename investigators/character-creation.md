@@ -23,7 +23,9 @@
 11. Create backstory. (See P. 52 of Investigators Handbook for random tables)
 12. Determine [cash, assets and living standards](credit-rating).
 
-**After the fact:**
-Add a pulp skill / magical ability
+**After the fact (Pulp):**
+Add a pulp skill / magical ability.
+If the player is psychic consider pulp psychic skills on page 84.
+If the player is a scientist consider giving a weird science invention on page 87
 ## Notes
 *No points can be added to the Cthulhu Mythos skill.*
