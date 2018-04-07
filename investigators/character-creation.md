@@ -10,7 +10,7 @@
 3. Apply  [age modifiers](investigator-age).
 4. Determine half and fifth values.
 5. Determine [damage bonus and build](/damage-bonus-build).
-6. Determine hit points - CON + SIZ / 10.
+6. Determine hit points - CON + SIZ / 10 (x 2 for Pulp).
 7. Determine [MOV characteristic](/game-system/movement#game-grid).
 8. Choose an occupation (Core rulebook P. 40, Investigators Handbook P. 66) 
 9. Allocate the following values among the eight occupation skills and the credit rating skill: 
@@ -22,5 +22,8 @@
 10. Add INT * 2 skills to any skills as personal interests, add to base values.
 11. Create backstory. (See P. 52 of Investigators Handbook for random tables)
 12. Determine [cash, assets and living standards](credit-rating).
+
+**After the fact:**
+Add a pulp skill / magical ability
 ## Notes
 *No points can be added to the Cthulhu Mythos skill.*
