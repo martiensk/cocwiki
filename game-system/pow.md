@@ -1,4 +1,4 @@
-<!-- TITLE: Pow -->
+<!-- TITLE: POW -->
 <!-- SUBTITLE: This is your life force -->
 # Recovering POW
 1) Win a POW  vs. POW or MP vs MP contest
