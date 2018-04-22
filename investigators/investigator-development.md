@@ -5,7 +5,7 @@
 When an investigator successfully uses a skill in play, the player should check the box beside that skill on the investigator sheet.
 No tick is earned if the roll used a bonus die. In the case of an opposed roll  only the winner may tick their skill.
 ### Luck
-Investigators should always roll for luck.
+Investigators should always roll for luck. If successful add 1d10 + 5 to luck.
 # Development Phase
 The phase occurs at the end of a scenario/campaign chapter.
 For each skill check the player rolls 1D100.
